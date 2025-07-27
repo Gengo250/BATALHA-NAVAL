@@ -3,7 +3,7 @@
 
 > Jogo clássico de Batalha Naval feito em C++ com interface no terminal, lógica estruturada, controle de pontuação, modo solo e multiplayer local.
 
-![Preview do Jogo](./assets/batalha-naval-preview.png)
+![Preview do Jogo](./assets/preview-batalhaNaval.png)
 
 ## 📌 Sobre o Projeto
 
@@ -45,15 +45,15 @@ Este projeto é uma implementação do jogo **Batalha Naval**, desenvolvida como
 ## 🖼️ Demonstrações
 
 ### Menu Inicial
-![Menu Inicial](./assets/menu-inicial.png)
+![Menu Inicial](./assets/tela-inicial.png)
 
 ### Escolha de modo
-![Escolha modo](./assets/modo-jogo.png)
+![Escolha modo](./assets/opcao-jogadores.png)
 
 ### Tabuleiro e Tentativas
-![Tabuleiro](./assets/tabuleiro.png)
+![Tabuleiro](./assets/tabuleiro-sozinho.png)
 
 ### Modo Dupla
-![Modo Dupla](./assets/modo-dupla.png)
+![Modo Dupla](./assets/tabuleiro-dupla.png)
 
 ---
