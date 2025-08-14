@@ -57,3 +57,14 @@ Este projeto é uma implementação do jogo **Batalha Naval**, desenvolvida como
 ![Modo Dupla](./assets/tabuleiro-dupla.png)
 
 ---
+
+👤 Autor
+Miguel de Castilho Gengo
+Estudante de Engenharia de Computação (PUC-Campinas) • Dev C/Java/Python • Robótica & Cibersegurança
+
+Links
+
+GitHub: @Gengo250
+LinkedIn: miguel-gengo-8157b72a1
+E-mail: miguelgengo28@gmail.com
+Se este setup te ajudou, deixa uma ⭐ no repositório e sinta-se à vontade para abrir uma Issue com sugestões.
